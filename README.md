@@ -1,11 +1,11 @@
 # Api
 Api for school management project
 
-#Installations
+##Installations
 Install mongodb and mongodb compass
 install nodejs
 
-#To get the API started
+##To get the API started
 
 start the server by typing mongod command in bin folder
 
